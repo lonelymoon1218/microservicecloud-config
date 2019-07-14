@@ -27,5 +27,3 @@ eureka:
   client: 
     service-url:
       defaultZone: http://eureka-test.com:7001/eureka/
- 
-#请使用utf-8保存
